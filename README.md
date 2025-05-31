@@ -9,3 +9,5 @@ spis tresci
 6
 7
 8
+dodaje cos
+i cos
