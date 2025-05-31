@@ -17,3 +17,10 @@ edycja readme
 dodanie ad
 adadswd
 sddsds
+install
+dsfdsds
+dsdsdsd
+dsdsdsds
+dsdsds
+d
+sdsdsdsd
