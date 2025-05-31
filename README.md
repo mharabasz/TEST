@@ -11,3 +11,7 @@ spis tresci
 8
 dodaje cos
 i cos
+
+
+
+no to publikujemy
