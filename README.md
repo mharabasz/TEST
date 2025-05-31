@@ -3,24 +3,9 @@
 spis tresci
 1
 2
-3
-4
-5
-6
-7
-8
-dodaje cos
-i cos
+3 
 
-
-edycja readme 
-dodanie ad
-adadswd
-sddsds
-install
-dsfdsds
-dsdsdsd
-dsdsdsds
-dsdsds
-d
-sdsdsdsd
+indtaluje proxmox
+1
+2
+3 i foldery
