@@ -13,5 +13,14 @@ dodaje cos
 i cos
 
 
-
-no to publikujemy
+edycja readme 
+dodanie ad
+adadswd
+sddsds
+install
+dsfdsds
+dsdsdsd
+dsdsdsds
+dsdsds
+d
+sdsdsdsd
