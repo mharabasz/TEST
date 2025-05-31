@@ -15,3 +15,7 @@ i cos
 
 
 no to publikujemy
+deded
+deded
+deded
+deded
