@@ -13,9 +13,7 @@ dodaje cos
 i cos
 
 
-
-no to publikujemy
-deded
-deded
-deded
-deded
+edycja readme 
+dodanie ad
+adadswd
+sddsds
