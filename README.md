@@ -72,3 +72,62 @@ Pamiętaj, że niektóre komponenty użyte w tym labie mogą wymagać posiadania
     * Jeśli lab wykorzystuje maszyny wirtualne z Marketplace Azure lub AWS, koszty licencji (jeśli dotyczy) są zazwyczaj wliczone w cenę użycia instancji.
     * **UWAGA:** Korzystanie z zasobów chmurowych może wiązać się z kosztami. Upewnij się, że znasz cennik dostawcy (Azure/AWS).
     * **Źródło:** [Link do dokumentacji Azure/AWS dotyczącej konkretnego ob
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+<summary><h2>Główna Sekcja (Kliknij, aby rozwinąć)</h2></summary>
+
+To jest główna treść sekcji. Poniżej znajduje się lista rozwijana.
+
+<details>
+<summary><h3>Moja Lista Ważnych Elementów (Kliknij, aby rozwinąć)</h3></summary>
+
+Tutaj zaczyna się treść głównej listy.
+
+<ul>
+    <li>Pierwszy element listy głównej.</li>
+    <li>Drugi element listy głównej.
+        <details>
+        <summary><h4>Podlista: Szczegóły Drugiego Elementu (Kliknij, aby rozwinąć)</h4></summary>
+        <ul>
+            <li>Podpunkt A: Bardziej szczegółowe informacje.</li>
+            <li>Podpunkt B: Dodatkowe dane dotyczące podpunktu A.</li>
+            <li>Podpunkt C: Kolejny szczegół.</li>
+        </ul>
+        </details>
+    </li>
+    <li>Trzeci element listy głównej.</li>
+    <li>Czwarty element listy głównej z własnym rozwinięciem:
+        <details>
+        <summary><h4>Dodatkowe Notatki (Kliknij, aby rozwinąć)</h4></summary>
+        <p>Tutaj możesz umieścić dodatkowy tekst, obrazki, czy fragmenty kodu związane z czwartym elementem.</p>
+        <pre><code># Przykładowy kod w podsekcji
+        Write-Host "Czwarty element listy."
+        </code></pre>
+        </details>
+    </li>
+</ul>
+
+</details>
+
+<p>Koniec głównej sekcji.</p>
+
+</details>
